@@ -1,5 +1,8 @@
 <template>
-  <tr>
+  <tr
+    :class="{ 'bg-green-100' :selected }"
+    @click="$emit('selected', flight.id)"
+  >
     <td>{{ flight.id }}</td>
     <td class="text-lg">
       <i
@@ -25,6 +28,7 @@
           'bg-yellow-400 text-yellow-50 border-yellow-400': type === 'percentage',
           'border-gray-200': type === 'text'
         }"
+        @click.stop
       >
     </td>
   </tr>
@@ -35,7 +39,11 @@ import { computed } from 'vue'
 import { FlightType } from '@/use/flights'
 
 const props = defineProps<{
-  flight: FlightType
+  flight: FlightType,
+  selected: boolean
+}>()
+defineEmits<{
+  (event: 'selected', id: number): void
 }>()
 
 const currencies = ['$', '£', '¥', '€']

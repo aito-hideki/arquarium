@@ -25,9 +25,16 @@ const flightList = ref(flights.map(
     totalCoverage: ''
   })
 ))
+const currentFlight = ref(-1)
 
 export const useFlights = () => {
+  const selectFlight = (id: number) => {
+    currentFlight.value = id
+  }
+
   return {
-    flightList
+    flightList,
+    currentFlight,
+    selectFlight
   }
 }

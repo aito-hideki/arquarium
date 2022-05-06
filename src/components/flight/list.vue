@@ -21,6 +21,8 @@
             v-for="flight in flightList"
             :key="flight.id"
             :flight="flight"
+            :selected="currentFlight === flight.id"
+            @selected="selectFlight"
           />
         </tbody>
       </table>
@@ -31,7 +33,7 @@
 <script setup lang="ts">
 import { useFlights } from '@/use/flights'
 
-const { flightList } = useFlights()
+const { flightList, currentFlight, selectFlight } = useFlights()
 </script>
 
 <style lang="scss">
@@ -47,10 +49,11 @@ const { flightList } = useFlights()
       padding-right: 16px;
       white-space: nowrap;
       cursor: pointer;
-      padding-bottom: 8px;
+      padding-top: 4px;
+      padding-bottom: 4px;
 
-      &:last-child {
-        padding-right: 0;
+      &:first-child {
+        padding-left: 16px;
       }
     }
   }
