@@ -1,0 +1,5708 @@
+[
+  {
+    "TIME": "2021-08-05T00:35:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2665",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B24",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T01:04:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA446",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B25",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T01:34:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6333",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T01:45:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN4552",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B21",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T05:16:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2614",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B27",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T05:22:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN435",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T05:57:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA1198",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B25",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:01:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN2112",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:04:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN2105",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:05:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA3044",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B23",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:07:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN559",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B14",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:26:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2042",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B20",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:29:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN652",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B17",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:36:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN2122",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B18",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:54:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA234",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B24",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:56:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6434",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T07:08:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA448",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B26",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T07:19:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B616",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T07:20:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN1228",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:26:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA369",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B19",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T07:59:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN121",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:23:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA3198",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B23",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T08:35:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN980",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T08:49:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2904",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B15",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:56:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN1008",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T08:59:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6133",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:09:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA3198",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B23",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:22:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN980",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:23:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2830",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B24",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:44:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2691",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B26",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:46:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN1009",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:55:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2018",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B23",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T10:04:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2039",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B25",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T10:13:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN1941",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T10:14:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA76",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B26",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T10:17:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6933",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T10:18:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN1046",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T10:26:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2798",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B27",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T10:41:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B615",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T10:45:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA396",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B24",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:11:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN1942",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:21:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA651",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B25",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:22:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6577",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B8",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T11:23:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN1046",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:30:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B61234",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:39:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2798",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B27",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:42:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6483",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T11:53:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA614",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B24",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:00:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2045",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B16",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:09:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6416",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T12:13:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6334",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T12:20:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B61833",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:38:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2023",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B25",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:45:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6578",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T12:50:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2045",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B16",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T12:51:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6415",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B8",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:57:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA16",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B26",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:05:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2016",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B22",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T13:11:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN1701",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "b13",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:11:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B61982",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:15:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B61515",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T13:23:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA3058",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B23",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T13:23:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2824",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B24",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:40:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2023",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B25",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:55:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA179",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B26",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T13:56:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6534",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:56:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2016",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B22",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:01:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA3058",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B23",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:03:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6616",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:21:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN137",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B13",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T14:26:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2014",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B22",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T15:02:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2061",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B27",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T15:04:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6335",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T15:14:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN138",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B13",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T15:23:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2014",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B22",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T15:29:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B633",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B4",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T15:50:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2820",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B24",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T16:07:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2028",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B22",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T16:09:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2802",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B26",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T16:32:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA1960",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B21",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T16:39:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN1575",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T16:45:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2820",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B24",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T16:56:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN5777",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T16:58:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA330",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B22",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T17:04:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN1931",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B13",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:18:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA843",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B27",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:25:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA3243",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B23",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:35:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN1576",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T17:40:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN1500",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:53:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6536",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:01:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN1931",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B13",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:07:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2639",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B19",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:12:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA652",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B27",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:19:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA3243",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B23",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:31:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA1175",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B20",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:37:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6535",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:41:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN1501",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:49:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6915",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B8",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:55:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6336",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T19:00:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA1659",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B24",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T19:04:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN1335",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B13",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T19:07:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN1927",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T19:07:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6683",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T19:38:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2828",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B27",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T19:45:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2035",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B22",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T19:58:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN1347",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T19:59:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN1335",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T20:14:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B61616",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T20:42:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN920",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B13",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:47:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA1580",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B21",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:55:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6482",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B4",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T20:58:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA3258",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B23",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:02:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2652",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B26",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:06:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6834",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T21:10:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA1430",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B25",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:10:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN250",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B18",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:16:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6633",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:18:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6277",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:22:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN920",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B14",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T21:32:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA3258",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B23",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T21:39:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA1253",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B23",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:49:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6636",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B4",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T22:00:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2548",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B20",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T22:02:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA1783",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B21",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T22:08:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA686",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B20",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T22:09:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B6278",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T22:21:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B61415",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B8",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T22:38:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2421",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B21",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T22:45:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA276",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B26",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T22:46:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA547",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B23",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T22:47:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B61516",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T22:50:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B62843",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T22:52:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2810",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B27",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T22:55:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN2343",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T23:10:00.000Z",
+    "AIRLINE": "Southwest",
+    "FLIGHT_NUMBER": "WN549",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B17",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T23:27:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA1253",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B19",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T23:39:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA3030",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 1,
+    "GATE": "B23",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T23:48:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B634",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T23:56:00.000Z",
+    "AIRLINE": "JetBlue",
+    "FLIGHT_NUMBER": "B62844",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T23:59:00.000Z",
+    "AIRLINE": "American",
+    "FLIGHT_NUMBER": "AA2665",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 1,
+    "GATE": "B21",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T00:07:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS710",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T00:14:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2076",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D2",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T00:25:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2038",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T00:27:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL885",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T05:51:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1189",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T05:55:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3318",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D16",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T05:57:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL1211",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:00:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2181",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D2",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:00:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL513",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C11",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:02:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL768",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D11",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:10:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL1144",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:19:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL3566",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D14",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:52:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3450",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:53:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1352",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D10",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:54:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS383",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:56:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2028",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D1",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:56:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL310",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:58:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS340",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D3",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:58:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1208",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T07:09:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2413",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D2",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:21:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL2136",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T07:33:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL3634",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:44:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3427",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:53:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1200",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T08:06:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2125",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D2",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:08:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS766",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D10",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T08:10:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1001",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:14:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS821",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:23:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2567",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T08:25:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL716",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:29:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL735",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C4",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:41:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3497",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:54:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3367",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T08:54:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3380",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D2",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T08:57:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1022",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:01:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2157",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:06:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2078",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:09:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL1311",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:23:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL3708",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:26:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1434",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D10",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:31:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3354",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D2",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:39:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL3634",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:40:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2042",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:41:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3458",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:48:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2136",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D1",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:55:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2121",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:06:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL487",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T10:08:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2093",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D1",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T10:10:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL1519",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C4",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T10:12:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL1311",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:21:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL3708",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:22:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS743",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D4",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:27:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3312",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D10",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T10:28:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2036",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:40:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL3654",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T10:49:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS405",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T10:50:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS99",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:58:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2057",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D1",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:01:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1272",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D3",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:08:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3402",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D10",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:24:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL1047",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T11:34:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL3654",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:36:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2274",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D1",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T11:45:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2025",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T11:45:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL715",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D10",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T11:46:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1477",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:48:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL744",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:59:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL343",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:01:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL824",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:02:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL1675",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C4",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T12:25:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2194",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T12:27:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2564",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D1",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T12:34:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL2339",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C4",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:42:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3437",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:59:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL1317",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:59:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL1047",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:02:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL1249",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D10",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:15:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3489",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:19:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL1033",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T13:29:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL2348",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C4",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:36:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL3599",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T13:37:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2202",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D4",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T13:38:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3398",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D8",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T13:42:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2002",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T13:53:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL1317",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:53:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1350",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T13:56:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL483",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:02:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2131",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T14:02:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL377",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:06:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL442",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T14:06:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2135",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D1",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T14:10:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL1304",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D11",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T14:11:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2071",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D4",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:18:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL726",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C4",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T14:21:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL3599",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:23:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2044",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:27:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL4151",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T14:35:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2428",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:37:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS333",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:40:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3418",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:43:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2201",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D1",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:46:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3413",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D4",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T14:56:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2129",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D2",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T15:07:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL4151",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T15:15:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL3671",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T15:28:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL301",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D11",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T15:37:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3434",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D4",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T15:37:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3491",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D10",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T15:38:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL902",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C4",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T15:41:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3444",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D3",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T15:53:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2524",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D2",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T15:55:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2493",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D8",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T15:56:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL442",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T16:04:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL1352",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D11",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T16:15:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL3671",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T16:29:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3330",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D10",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T16:31:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2451",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D1",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T16:40:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3365",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D3",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T16:41:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3486",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T16:55:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL1380",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D11",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T16:55:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL3643",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:26:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL3643",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T17:27:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2286",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T17:30:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3372",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T17:33:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL719",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:35:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2560",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D1",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T17:49:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL769",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:57:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2083",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D3",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:11:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3477",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:15:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS230",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:17:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1213",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:21:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL2470",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:22:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2120",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D4",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:28:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL2980",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C4",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:49:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL1504",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:57:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1414",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D10",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T19:00:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2462",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D4",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T19:05:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL2470",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T19:19:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3498",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T19:23:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL3700",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D11",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T19:27:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL311",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T19:30:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS375",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T19:35:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2118",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D3",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T19:35:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3325",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D4",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T19:37:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3373",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T19:45:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1002",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T19:47:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1461",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D10",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T19:48:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS244",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D1",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T19:51:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2048",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D16",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:02:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1258",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D3",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:10:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2142",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D10",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:11:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL1504",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T20:12:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3392",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T20:13:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL3700",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D11",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T20:14:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3310",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D2",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:15:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3440",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D4",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T20:20:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1359",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:34:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2090",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D4",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:35:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2014",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D16",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T20:42:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2058",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D16",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:43:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1113",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T20:55:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2293",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D10",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T21:03:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3470",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D2",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T21:04:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1323",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T21:08:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2146",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D4",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T21:10:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL559",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D11",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:12:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL968",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:20:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3490",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:21:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2043",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D16",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T21:43:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2298",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D8",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:44:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3404",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T21:58:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL3560",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D14",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T22:00:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL821",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T22:06:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL2418",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C4",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T22:07:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS657",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D3",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T22:20:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2038",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T22:30:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3499",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T22:41:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL300",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "C9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T23:13:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL1704",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C4",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T23:16:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS2037",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D16",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T23:21:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL967",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 2,
+    "GATE": "D12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T23:36:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS3479",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D2",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T23:39:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS1328",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D4",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T23:46:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL314",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T23:48:00.000Z",
+    "AIRLINE": "Alaska",
+    "FLIGHT_NUMBER": "AS710",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D10",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T23:54:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL710",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "D12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T23:56:00.000Z",
+    "AIRLINE": "Delta",
+    "FLIGHT_NUMBER": "DL2104",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 2,
+    "GATE": "C6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T00:07:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1609",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F14",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T00:13:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1637",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F2",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T05:03:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA396",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F14",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T05:12:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1639",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T05:19:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1824",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E3",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T05:55:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1618",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F4",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T06:04:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1746",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T06:11:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1557",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F20",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T06:27:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1724",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F2",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T06:31:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1575",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F19",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T06:55:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1889",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F11",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T07:02:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA4647",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F3A",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:07:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5318",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:11:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5309",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F15L",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:18:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA471",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F3",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:30:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5245",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E13",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:33:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA4678",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E3",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:34:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5998",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:35:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2115",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E11",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T07:36:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1218",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F4",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:39:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5617",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:40:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1483",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:43:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5743",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E1",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:44:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA4776",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E2",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T07:46:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5464",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:49:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5216",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F15M",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:51:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5287",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F10",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:58:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5605",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F15N",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T07:58:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1045",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F1",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T08:02:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5549",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F8",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T08:05:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5531",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E11",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T08:23:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1954",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:24:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2332",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F16",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:24:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5905",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F15L",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:25:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5575",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F10",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:26:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2096",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F20",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:26:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2617",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:27:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA6002",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:30:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1400",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:30:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5969",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:33:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2068",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:34:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1986",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F22",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:36:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA753",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T08:36:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5445",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E1",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:37:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1725",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F17",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:40:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1175",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F19",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:42:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1826",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F4",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:42:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2194",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F3",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:43:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA605",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:44:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5370",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E13",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:45:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5276",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F15N",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:46:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5732",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F15M",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:48:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5951",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:51:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2499",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T08:51:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2304",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F13",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:52:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1679",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F2",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:53:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA4794",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:53:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA520",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F14",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T08:53:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5983",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E3",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:00:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA641",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F19",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:01:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5765",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E11",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:02:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2094",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F1",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:03:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2123",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:04:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5914",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:05:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1783",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E10",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:07:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5833",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:08:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA4740",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E2",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:12:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1615",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F20",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:13:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5253",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F3A",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:15:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA4755",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:16:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5493",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:18:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5387",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E3",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:24:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5298",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F10",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:24:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1721",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F11",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T09:25:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA731",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F3",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:27:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1852",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E13",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:32:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1830",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F4",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:32:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5358",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F15N",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:34:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2645",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F16",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:35:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA4675",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F15M",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:41:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA277",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E8",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:41:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5505",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E1",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:43:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1789",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E10",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:44:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5856",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F15L",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:45:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA419",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E11",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:58:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1513",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F1",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T09:58:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5319",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T10:26:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2027",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E13",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:28:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5289",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F15N",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:29:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1253",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:33:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2669",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:33:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA552",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:35:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5987",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:36:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5541",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:38:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1484",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:39:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1614",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F17",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:40:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1271",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F4",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:45:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1678",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F3",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:47:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2380",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F13",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:48:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1111",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F19",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:50:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5749",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F15L",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:50:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1999",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:51:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1444",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F22",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:52:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA694",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F20",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:55:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1942",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E10",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:56:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5966",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E2",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:56:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5492",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F15M",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T10:57:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2670",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E11",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:02:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5483",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E3",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:04:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1881",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F1",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:05:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA4798",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F10",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:17:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1142",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F11",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T11:17:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA521",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F17",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T11:18:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA441",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F4",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T11:22:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5689",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:23:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA358",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F2",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:32:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1273",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T11:32:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1007",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F20",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T11:48:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA470",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T11:54:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2372",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F22",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T11:58:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1108",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F13",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:02:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5371",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E2",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:13:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5540",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:17:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5899",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:22:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5880",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E8",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:22:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5349",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:23:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1909",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F1",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:24:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5838",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E3",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:28:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1491",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F3",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:34:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5416",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:35:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1745",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E13",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:41:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA4728",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F10",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:41:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1991",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F19",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:48:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1561",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:50:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5279",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F15N",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:53:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5876",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F8",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:54:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5821",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F15L",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T12:59:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5935",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F3A",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T13:00:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5452",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F15M",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T13:02:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5595",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:04:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1546",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T13:10:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA343",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F2",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T13:10:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1742",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T13:14:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5448",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F10",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:15:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2260",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F22",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:15:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5485",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E2",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:15:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2246",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E11",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T13:16:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5726",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:20:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA4802",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:21:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5223",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E1",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:25:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1926",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F3",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:27:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5697",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T13:33:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5642",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:34:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1264",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F1",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:35:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5989",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F15L",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:37:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA522",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F14",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:37:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA300",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F13",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:39:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2002",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:40:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5469",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F15N",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:42:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2167",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E13",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:42:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5698",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:43:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1998",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F16",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:43:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5566",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:45:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA4793",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E3",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:45:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5927",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F15M",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T13:49:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5727",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F3A",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:00:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2333",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F2",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:01:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1434",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T14:05:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2315",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:07:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1279",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E11",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:12:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2652",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:16:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1250",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F19",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:19:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA539",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F20",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:21:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2114",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:21:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5736",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F8",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T14:43:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5693",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T14:44:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1763",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F4",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T15:01:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5756",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T15:04:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5974",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F15K",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T15:06:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA4805",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T15:19:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1478",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F1",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T15:21:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA638",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T15:26:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1945",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F14",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T15:30:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5455",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T15:32:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA729",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T15:34:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5422",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T15:35:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5504",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F8",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T16:01:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5996",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E1",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T16:10:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA447",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T16:10:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5244",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F8",
+    "REMARK": "Closed"
+  },
+  {
+    "TIME": "2021-08-05T16:11:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5644",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T16:15:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1509",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F17",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T16:24:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5395",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T16:27:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2378",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T16:33:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2385",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F3",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T16:37:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1829",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T16:39:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5823",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F15K",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T16:40:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5967",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T16:41:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA284",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T16:44:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5632",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F15M",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T16:48:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA372",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F19",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T16:55:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA4637",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E8",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:00:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1625",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F16",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:01:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5222",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:10:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5571",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F15K",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:13:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1262",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F4",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:14:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1548",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F2",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:22:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5713",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:22:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2632",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F11",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:24:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5456",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E10",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:28:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA651",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E11",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:31:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5321",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E13",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:37:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1164",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:38:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2047",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:44:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA735",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:45:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5534",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:47:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5673",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F15L",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:50:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5641",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F10",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T17:53:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2481",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F3",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T17:56:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1281",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F16",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T17:57:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5248",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F3A",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:07:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1453",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F17",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:07:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA305",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F22",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:09:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5606",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E3",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:14:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5986",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:15:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5583",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:18:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5695",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:19:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5649",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:21:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5879",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:22:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5902",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:23:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1246",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:23:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5482",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E10",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:23:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5855",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:26:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1684",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F14",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:27:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA4776",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F3A",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:28:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5470",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F15M",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:29:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1749",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F20",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:33:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5827",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E13",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:34:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2050",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F16",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:37:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1508",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:39:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5407",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F15N",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T18:42:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1980",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E11",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:43:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1494",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F2",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:44:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5811",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:45:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2062",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F19",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:47:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2159",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:48:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5458",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:50:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA533",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E5",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:52:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1735",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:53:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5229",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E1",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:53:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA389",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F17",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T18:55:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA4646",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T19:02:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA4791",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F15L",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T19:03:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5481",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F15K",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T19:03:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1860",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F1",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T19:06:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5524",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F10",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T19:09:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5779",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T19:09:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5888",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F15N",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T19:15:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5814",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F8",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T19:18:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2336",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F13",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T19:19:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5946",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E3",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T19:19:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1723",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F16",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T19:21:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1261",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F4",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T19:22:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5711",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T19:29:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5537",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E2",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T19:43:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5373",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T19:44:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5705",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T20:11:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA523",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F17",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:18:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA351",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E3",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:23:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA601",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E9",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:23:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1666",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F1",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:31:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA214",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F20",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:32:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2435",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F22",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:36:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1722",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F19",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:36:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2615",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E10",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:44:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA724",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F13",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:48:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1611",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T20:53:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA643",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F14",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:06:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA608",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:14:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5380",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F7",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:20:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2681",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E11",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:26:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5731",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F6",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:26:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1761",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F2",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:39:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1215",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F16",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:48:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2400",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F3",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:54:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1552",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "E5",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T21:58:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1608",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F11",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T22:08:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA4721",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F8",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T22:13:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1288",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F17",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T22:17:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA455",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F3A",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T22:18:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA675",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F19",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T22:21:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5904",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F6",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T22:28:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA537",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T22:29:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA650",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F22",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T22:29:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1497",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E9",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T22:31:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2366",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F2",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T22:34:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5885",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F7",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T22:35:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA5638",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F8",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T22:38:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA435",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F12",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T22:41:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1711",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E11",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T22:56:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA2093",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F13",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T23:11:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1074",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "E10",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T23:48:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1707",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F12",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T23:49:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA505",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F19",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T23:52:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1597",
+    "TRANSACTION": "ARR",
+    "TERMINAL": 3,
+    "GATE": "F4",
+    "REMARK": "Arrived"
+  },
+  {
+    "TIME": "2021-08-05T23:52:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA476",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F11",
+    "REMARK": "Departed"
+  },
+  {
+    "TIME": "2021-08-05T23:58:00.000Z",
+    "AIRLINE": "United",
+    "FLIGHT_NUMBER": "UA1919",
+    "TRANSACTION": "DEP",
+    "TERMINAL": 3,
+    "GATE": "F22",
+    "REMARK": "Departed"
+  }
+]
