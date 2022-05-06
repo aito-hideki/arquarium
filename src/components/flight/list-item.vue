@@ -26,7 +26,7 @@
         :class="{
           'bg-green-400 text-green-50 border-green-400': type === 'currency',
           'bg-yellow-400 text-yellow-50 border-yellow-400': type === 'percentage',
-          'border-gray-200': type === 'text'
+          'border-gray-200': type === 'text' || type === 'none'
         }"
         @click.stop
       >
@@ -36,7 +36,7 @@
 
 <script setup lang="ts">
 import { computed } from 'vue'
-import { FlightType } from '@/use/flights'
+import { FlightType, useFlights } from '@/use/flights'
 
 const props = defineProps<{
   flight: FlightType,
@@ -46,23 +46,7 @@ defineEmits<{
   (event: 'selected', id: number): void
 }>()
 
-const currencies = ['$', '£', '¥', '€']
-
-const coverageType = (coverage: string) => {
-  const isCurrency = currencies.findIndex((currency) =>
-    (coverage.startsWith(currency) || coverage.endsWith(currency)) &&
-    !isNaN(+coverage.replace(currency, ''))
-  ) !== -1
-
-  if (isCurrency) { return 'currency' }
-
-  const isPercentage =
-    coverage.endsWith('%') && !isNaN(+coverage.replace('%', ''))
-
-  if (isPercentage) { return 'percentage' }
-
-  return 'text'
-}
+const { getCoverageType } = useFlights()
 
 const totalCoverage = computed({
   get: () => props.flight.totalCoverage,
@@ -71,5 +55,5 @@ const totalCoverage = computed({
   }
 })
 
-const type = computed(() => coverageType(totalCoverage.value))
+const type = computed(() => getCoverageType(totalCoverage.value))
 </script>
