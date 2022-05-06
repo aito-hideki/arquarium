@@ -10,10 +10,6 @@
         <td>{{ selectedFlight.arrived ? 'Arrived' : 'Departed' }}</td>
       </tr>
       <tr>
-        <td class="pr-4">Transaction</td>
-        <td>{{ selectedFlight.arrived ? 'Arrived' : 'Departed' }}</td>
-      </tr>
-      <tr>
         <td class="pr-4">Airline</td>
         <td>{{ selectedFlight.airline }}</td>
       </tr>
