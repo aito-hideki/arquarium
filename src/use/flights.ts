@@ -55,7 +55,7 @@ export const useFlights = () => {
     currentFlight.value = id
 
     const { id: flightID, totalCoverage } = flightList.value[currentFlight.value - 1]
-    console.log(totalCoverage)
+
     switch (getCoverageType(totalCoverage)) {
       case 'currency':
         updateAlert(`Currency value detected for row with ID ${flightID} 🤑`)
